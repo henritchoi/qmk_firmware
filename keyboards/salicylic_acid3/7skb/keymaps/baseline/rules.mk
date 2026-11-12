@@ -1,2 +1,0 @@
-EEPROM_DRIVER = transient
-MOUSEKEY_ENABLE = yes
